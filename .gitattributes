@@ -1,0 +1,2 @@
+*.h5 filter=lfs diff=lfs merge=lfs -text
+models/model_lstm.h5 filter=lfs diff=lfs merge=lfs -text
